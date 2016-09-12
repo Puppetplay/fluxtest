@@ -178,3 +178,5 @@ $RECYCLE.BIN/
 .idea/modules.xml
 .idea/slip.iml
 .idea/watcherTasks.xml
+
+node_modules/
